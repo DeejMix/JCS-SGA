@@ -1,0 +1,11 @@
+.welcome_title {
+  position: relative;
+  left: 300px;
+}
+.event_li {
+  
+}
+.event {
+  list-style-type: none;
+  text-align: center;
+}
